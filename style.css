@@ -1,0 +1,16 @@
+
+* {
+    background-color: black;
+    font-family: Futura;
+}
+
+h1 {
+    color: rgb(70, 128, 167);
+    font-family: Futura;
+    font-size: 100px;
+    text-align: center;
+}
+
+a {
+    color: rgba(164, 129, 201, 0.828);
+}
