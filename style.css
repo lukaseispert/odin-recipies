@@ -1,16 +1,38 @@
 
 * {
     background-color: black;
-    font-family: Futura;
+    font-family: Futura, serif;
+    color: #ffffff;
 }
 
 h1 {
-    color: rgb(70, 128, 167);
-    font-family: Futura;
+    color: #ffffff;
     font-size: 100px;
     text-align: center;
 }
 
+h5 {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    text-align: center;
+    
+}
+
+li {
+    float: left;
+    
+}
+
 a {
-    color: rgba(164, 129, 201, 0.828);
+    display: block;
+    padding-inline: 8px;
+    background-color: orange;
+}
+
+img {
+    height: auto;
+    width: 1900px;
 }
